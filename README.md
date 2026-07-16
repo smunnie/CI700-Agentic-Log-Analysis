@@ -1,4 +1,4 @@
-# VersusLite — Agentic AI Workflow for Cybersecurity Log Analysis
+## Agentic AI Workflow for Cybersecurity Log Analysis
 
 CI700 MSc Final Project (University of Brighton). A lightweight, evidence-gated
 agentic AI workflow that investigates security alerts by correlating log
